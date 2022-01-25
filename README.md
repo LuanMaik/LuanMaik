@@ -28,6 +28,6 @@
 
 ### 🎭 &nbsp;De-stress Stack
 ![Guitar](https://img.shields.io/badge/%F0%9F%8E%B8%20Play%20guitar-lightgrey)&nbsp;
-![Games](https://img.shields.io/badge/%F0%9F%8E%AE%20Play%20games-lightgrey)&nbsp;
+![Games](https://img.shields.io/badge/%F0%9F%8E%AE%20Games-lightgrey)&nbsp;
 ![Movies](https://img.shields.io/badge/%F0%9F%8E%A5%20Movies-lightgrey)&nbsp;
 
