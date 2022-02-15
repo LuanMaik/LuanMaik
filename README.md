@@ -7,7 +7,7 @@
 ## Full Stack Software Developer
 
 - 🔭 I’m currently working on portfolio projects
-- 🌱 I’m currently learning ReactJs and .Net Core
+- 🌱 I’m currently learning ReactJs
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
