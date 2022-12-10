@@ -31,3 +31,4 @@
 ![Games](https://img.shields.io/badge/%F0%9F%8E%AE%20Games-lightgrey)&nbsp;
 ![Movies](https://img.shields.io/badge/%F0%9F%8E%A5%20Movies-lightgrey)&nbsp;
 
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanMaik&show_icons=true&theme=dark)
